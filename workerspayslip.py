@@ -23,13 +23,13 @@ def generate_payment_slips(workers):
             level = "B1"  # level set to default
             salary = worker["salary"]
 
-            # Conditional logic for Employee levels
+            # written logic for Employee levels
             if 10000 < salary < 20000:
                 level = "A1"
             if 7500 < salary < 30000 and worker["gender"] == "Female":
                 level = "A5-F"
 
-            # Simulate generating a payment slip
+            # creativly generating a payment slip
             print(
                 f"ID: {worker['id']}, Name: {worker['name']}, "
                 f"Gender: {worker['gender']}, Salary: ${salary}, Level: {level}"

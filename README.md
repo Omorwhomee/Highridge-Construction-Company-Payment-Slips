@@ -51,3 +51,6 @@ README.md - This is the instruction file.
 
 ## Output
 The program prints payment slip details for each worker to the console.
+
+## Error handling
+Invalid data entries are caught and loged in the console.
