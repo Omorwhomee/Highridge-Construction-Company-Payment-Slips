@@ -43,11 +43,11 @@ README.md - This is the instruction file.
 ## Requirements
 ### Python
 - Python 3.x
-- Run `python workers_payment.py` to execute.
+- Run `python workerspaymentslip.py.py` to execute.
 
 ### R
 - R version 4.x or above
-- Run `Rscript workers_payment.R` to execute.
+- Run `Rscript workerspaymentslip.R` to execute.
 
 ## Output
 The program prints payment slip details for each worker to the console.
