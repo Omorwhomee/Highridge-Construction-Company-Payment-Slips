@@ -34,3 +34,20 @@ Thoroughly address all tasks in the assignment description.
 Review your Python and R code to ensure it meets the specified criteria. 
 Save your submission as a ZIP file and include a detailed README.
 Double-check that your GitHub repository contains the zipped file for submission.
+
+## files
+workerspayslip.py - Used to inplement the python code.
+workerspayslip.R - Used to implement the R code.
+README.md - This is the instruction file.
+
+## Requirements
+### Python
+- Python 3.x
+- Run `python workers_payment.py` to execute.
+
+### R
+- R version 4.x or above
+- Run `Rscript workers_payment.R` to execute.
+
+## Output
+The program prints payment slip details for each worker to the console.
